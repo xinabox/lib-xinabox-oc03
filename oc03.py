@@ -10,8 +10,10 @@ The board is based off the PCA9554A I/O expander manufactured by Texas Instrumen
 The Module implements the PCA9554A to drive a solid state relay utilizing the `OC03 xChip <https://wiki.xinabox.cc/OC03_-_Relay_Out>`_.
 The board uses I2C for communication.
 
+Data Sheets:
 
-Data Sheets: `PCA9554A <http://www.ti.com/lit/ds/symlink/pca9554a.pdf>`_
+-  `PCA9554A <http://www.ti.com/lit/ds/symlink/pca9554a.pdf>`_
+-  `TLP241A <https://toshiba.semicon-storage.com/info/docget.jsp?did=14237&prodName=TLP241A>`_
 
     """
 
