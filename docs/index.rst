@@ -26,12 +26,9 @@ ________
 * Trigger LED current: 3 mA (max)
 * ON-state current: 2 A (max)
 * ON-state resistance:
-* 100 mΩ (max, t < 1 s)
-* 150 mΩ (max, Continuous)
+  - 100 mΩ (max, t < 1 s)
+  - 150 mΩ (max, Continuous)
 * Isolation voltage: 5000 Vrms (min)
-
-
-.. The text you write here will appear in the first doc page. (This is just a comment, will not be rendered)
 
 .. include:: __toc.rst
 
