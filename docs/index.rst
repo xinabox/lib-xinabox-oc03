@@ -1,13 +1,14 @@
-*************
+=============
 XinaBox OC03
-*************
+=============
+
 OC03 is a low-voltage control relay module able to switch AC and DC loads.
 
 The optically isolated relay is controlled by a PCA9554A IO expander, which provides an control interface to the switch. The PCA9554A has several selectable I2C addresses accessible via solder pads.
 
 The TLP241A photorelay consist of a photo MOSFET optically coupled to an infrared light emitting diode which switches a AC or DC load. It provides an isolation voltage of 5000 Vrms, making it suitable for applications that require reinforced circuit insulation.
 
-******************
+
 Technical Details
 ******************
 PCA9554A
